@@ -14,5 +14,3 @@ bootloader in assembly x86
 
 ## rum in qemu
     qemu-system-x86_64 -drive format=raw,file=bootloader.img
-
-
