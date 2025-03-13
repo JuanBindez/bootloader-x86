@@ -1,6 +1,9 @@
 # bootloader
 
-bootloader in assembly x86
+# bootloader in assembly x86
+
+## permissions
+    chmod -v +x build.sh image.sh vm.sh
 
 ## compile
     ./build.sh
